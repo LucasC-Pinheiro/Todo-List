@@ -24,7 +24,7 @@ export default function App() {
         }}
     >
         <Stack.Screen
-            name="home"
+            name="index"
             options={{ title:"Todo List" }}
         />        
     </Stack> 
